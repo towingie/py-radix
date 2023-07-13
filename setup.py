@@ -34,7 +34,7 @@ if sys.version_info < (2, 7):
 
 setup(
     name='py-radix',
-    version='0.10.0',
+    version='0.10.1',
     maintainer='Michael J. Schultz',
     maintainer_email='mjschultz@gmail.com',
     url='https://github.com/mjschultz/py-radix',
